@@ -3816,6 +3816,29 @@ section.lazy-placeholder:after {
 .cid-s2lYPWfYUj DIV {
   text-align: right;
 }
+.cid-sEEkldm7Ox {
+  background: #ffffff;
+}
+.cid-sEEkldm7Ox .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-sEEkldm7Ox .mbr-figure {
+  margin: 0 auto;
+}
+.cid-sEEkldm7Ox figcaption {
+  position: relative;
+}
+.cid-sEEkldm7Ox figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sEEkldm7Ox .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rWvF50bRWt {
   padding-top: 60px;
   padding-bottom: 60px;
