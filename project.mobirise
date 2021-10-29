@@ -68,7 +68,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "miketurton"
   },
   "pages": {
